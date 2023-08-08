@@ -22,4 +22,5 @@ En este proyecto me enfoqué en construir una aplicación que permita consultar 
 ## 3. Objetivo del Proyecto
 Realizacion de la aplicacion Latinas Stock Bank, tiene el objetivo de proyectar los conocimientos aprendidos dentro del bootcamp latinas code camp.
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Latinas Stock Bank]
+Aquí puedes visualizar mi proyecto terminado: [Latinas Stock Bank]https://8fzysf.csb.app/
+
